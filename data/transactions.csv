@@ -1,0 +1,11 @@
+Transaction ID,Customer ID,Customer Name,Email,Phone,Country,Transaction Date,Transaction Type,Amount,Payment Status
+T001,C001,Rahul Sharma,rahul@gmail.com,9876543210,India,2026-10-15,Purchase,5000,Completed
+T002,C002,Priya Das,priya@gmail.com,9876543211,India,2026-10-15,Purchase,7500,Completed
+T003,C003,Amit Roy,amitgmail.com,9876543212,India,2026-10-16,Refund,1200,Pending
+T004,C004,Sneha Sen,sneha@gmail.com,98765432,India,2026-10-16,Purchase,3200,Completed
+T005,C005,Arjun Mehta,arjun@gmail.com,9876543214,India,2026-10-17,Purchase,-500,Pending
+T006,C006,,neha@gmail.com,9876543215,India,2026-10-17,Purchase,4500,Completed
+T007,C007,Rohan Das,rohan@gmail.com,9876543216,India,2026-13-40,Purchase,6800,Completed
+T008,C008,Karan Singh,karan@gmail.com,9876543217,India,2026-10-18,Refund,1500,Cancelled
+T008,C009,Meera Roy,meera@gmail.com,9876543218,India,2026-10-18,Purchase,9000,Completed
+T010,C010,Suman Paul,suman@gmail.com,9876543219,India,2026-10-19,Purchase,11000,Completed

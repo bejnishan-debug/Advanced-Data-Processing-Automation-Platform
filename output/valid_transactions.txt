@@ -1,0 +1,44 @@
+transaction_id : T001
+customer_id : C001
+customer_name : Rahul Sharma
+email : rahul@gmail.com
+phone : 9876543210
+country : India
+transaction_date : 2026-10-15
+transaction_type : Purchase
+amount : 5000.0
+payment_status : Completed
+
+transaction_id : T002
+customer_id : C002
+customer_name : Priya Das
+email : priya@gmail.com
+phone : 9876543211
+country : India
+transaction_date : 2026-10-15
+transaction_type : Purchase
+amount : 7500.0
+payment_status : Completed
+
+transaction_id : T008
+customer_id : C008
+customer_name : Karan Singh
+email : karan@gmail.com
+phone : 9876543217
+country : India
+transaction_date : 2026-10-18
+transaction_type : Refund
+amount : 1500.0
+payment_status : Cancelled
+
+transaction_id : T010
+customer_id : C010
+customer_name : Suman Paul
+email : suman@gmail.com
+phone : 9876543219
+country : India
+transaction_date : 2026-10-19
+transaction_type : Purchase
+amount : 11000.0
+payment_status : Completed
+

@@ -1,0 +1,3 @@
+Total Transactions: 10
+Valid Transactions: 4
+Invalid Transactions: 6

@@ -1,0 +1,78 @@
+Transaction ID: T003
+Reason: Invalid email format
+transaction_id : T003
+customer_id : C003
+customer_name : Amit Roy
+email : amitgmail.com
+phone : 9876543212
+country : India
+transaction_date : 2026-10-16
+transaction_type : Refund
+amount : 1200.0
+payment_status : Pending
+
+Transaction ID: T004
+Reason: Phone number must be a 10-digit number
+transaction_id : T004
+customer_id : C004
+customer_name : Sneha Sen
+email : sneha@gmail.com
+phone : 98765432
+country : India
+transaction_date : 2026-10-16
+transaction_type : Purchase
+amount : 3200.0
+payment_status : Completed
+
+Transaction ID: T005
+Reason: Amount cannot be negative
+transaction_id : T005
+customer_id : C005
+customer_name : Arjun Mehta
+email : arjun@gmail.com
+phone : 9876543214
+country : India
+transaction_date : 2026-10-17
+transaction_type : Purchase
+amount : -500.0
+payment_status : Pending
+
+Transaction ID: T006
+Reason: Customer name must contain only alphabetic characters and spaces
+transaction_id : T006
+customer_id : C006
+customer_name : 
+email : neha@gmail.com
+phone : 9876543215
+country : India
+transaction_date : 2026-10-17
+transaction_type : Purchase
+amount : 4500.0
+payment_status : Completed
+
+Transaction ID: T007
+Reason: Transaction date must be in YYYY-MM-DD format
+transaction_id : T007
+customer_id : C007
+customer_name : Rohan Das
+email : rohan@gmail.com
+phone : 9876543216
+country : India
+transaction_date : 2026-13-40
+transaction_type : Purchase
+amount : 6800.0
+payment_status : Completed
+
+Transaction ID: T008
+Reason: Duplicate Transaction ID
+transaction_id : T008
+customer_id : C009
+customer_name : Meera Roy
+email : meera@gmail.com
+phone : 9876543218
+country : India
+transaction_date : 2026-10-18
+transaction_type : Purchase
+amount : 9000.0
+payment_status : Completed
+

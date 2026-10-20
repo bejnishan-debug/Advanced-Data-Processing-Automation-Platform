@@ -1,0 +1,14 @@
+Analytics Report
+
+Total Transactions: 4
+Total Transaction Amount: 25000.0
+Average Transaction Amount: 6250.0
+Total Purchase Amount: 23500.0
+Total Refund Amount: 1500.0
+
+Country-wise Transaction Count:
+Country-wise Transaction Count:
+India: 4
+
+Country-wise Revenue:
+India: 25000.0
